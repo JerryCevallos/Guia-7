@@ -28,7 +28,10 @@
  
  3. Marco Teorico
  4. Material o Equipo Requerido 
- 5. Diagrama 
+ 5. Diagrama
+ 
+ ![Diagrama](https://user-images.githubusercontent.com/75337022/111855847-e9bff000-88f4-11eb-8c00-013ba6b09075.png)
+
  6. Tabulacion de datos
  7. Calculos y errores
  8. Conclusiones 
