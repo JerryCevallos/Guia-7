@@ -39,7 +39,8 @@
  
    Una de las maneras de simplificar y facilitar el análisis de circuitos eléctricos y electrónicos es por medio del Teorema de Thévenin que establece que:
    
-    Un circuito eléctrico puede representarse con un circuito dual o equivalente, representado por una sola fuente de voltaje en serie con una resistencia. El valor de la fuente     de voltaje se conoce como el “voltaje de Thévenin” y la resistencia en serie como “resistencia de Thévenin”.
+    Un circuito eléctrico puede representarse con un circuito dual o equivalente, representado por una sola fuente de voltaje en serie con una resistencia. 
+    El valor de la fuente de voltaje se conoce como el “voltaje de Thévenin” y la resistencia en serie como “resistencia de Thévenin”.
     
     El voltaje de Thévenin (VTH) es el voltaje en circuito abierto entre las terminales del circuito para el cual se requiere el equivalente de Thévenin.
     
