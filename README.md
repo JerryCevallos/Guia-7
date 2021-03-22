@@ -21,16 +21,22 @@
    
    Para el circuito mostrado en la figura 5.1:
    
-     a) Determine el valor de voltaje y corriente en el resistor R5. Anote los resultados en la tabla 5.2.
+     a) Determine el valor de voltaje y corriente en el resistor R5. Anote los resultados en las tablas
      
-     b) Obtenga los valores del circuito equivalente de Thévenin y anótelos en la tabla 5.1.
+     b) Obtenga los valores del circuito equivalente de Thévenin y anótelos en las tablas 
      
  
  3. Marco Teorico
- 4. Material o Equipo Requerido 
- 5. Diagrama
+
+INFORMACION GENERAL
+Una de las maneras de simplificar y facilitar el análisis de circuitos eléctricos y electrónicos es por medio del Teorema de Thévenin que establece que:
+Un circuito eléctrico puede representarse con un circuito dual o equivalente, representado por una sola fuente de voltaje en serie con una resistencia. El valor de la fuente de voltaje se conoce como el “voltaje de Thévenin” y la resistencia en serie como “resistencia de Thévenin”.
+El voltaje de Thévenin (VTH) es el voltaje en circuito abierto entre las terminales del circuito para el cual se requiere el equivalente de Thévenin.
+La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la terminal del circuito para el equivalente de Thévenin, con las fuentes de alimentación en cero.
+
+ 5. Material o Equipo Requerido 
+ 6. Diagrama
  
- ![Diagrama](https://user-images.githubusercontent.com/75337022/111855847-e9bff000-88f4-11eb-8c00-013ba6b09075.png)
 
  6. Tabulacion de datos
  7. Calculos y errores
