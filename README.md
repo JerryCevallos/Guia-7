@@ -54,8 +54,27 @@
 
 ![Material](https://user-images.githubusercontent.com/75337022/112067016-63deb780-8b35-11eb-9f05-393f28f73f95.png)
 
+ 7. Procedimiento
 
- 7. Procedimiento 
+•	Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla
+
+•	Voltaje
+
+
+•	Corriente
+
+
+•	Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla.
+
+
+
+•	Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla.
+
+
+
+•	Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla.
+
+
  6. Tabulacion de datos
  7. Calculos y errores
  8. Conclusiones
