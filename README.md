@@ -46,13 +46,18 @@
     
     La resistencia de Thévenin (RTH) es la resistencia equivalente vista de la terminal del circuito para el equivalente de Thévenin, con las fuentes de alimentación en cero.
 
- 5. Material o Equipo Requerido 
- 6. Diagrama
- 
+ 5. Diagrama 
 
+![Diagrama](https://user-images.githubusercontent.com/75337022/112066416-4c52ff00-8b34-11eb-91ff-3b9434fe5749.png)
+
+ 6. Material o equipo requerido
+
+![Material](https://user-images.githubusercontent.com/75337022/112067016-63deb780-8b35-11eb-9f05-393f28f73f95.png)
+
+
+ 7. Procedimiento 
  6. Tabulacion de datos
  7. Calculos y errores
- 8. Conclusiones 
- 9. Recomendaciones 
- 10. Bibliografia 
- 11. Aneos 
+ 8. Conclusiones
+ 9. Bibliografia 
+ 10. Aneos 
