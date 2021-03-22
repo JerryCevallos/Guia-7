@@ -60,20 +60,29 @@
 
 •	Voltaje
 
+![Voltaje](https://user-images.githubusercontent.com/75337022/112067911-dc924380-8b36-11eb-9beb-6fca9cda3811.png)
 
 •	Corriente
 
+![Corriente](https://user-images.githubusercontent.com/75337022/112067931-e320bb00-8b36-11eb-83bd-86c23fecf73b.png)
 
 •	Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla.
 
-
+![Desconecte](https://user-images.githubusercontent.com/75337022/112067947-ed42b980-8b36-11eb-9af1-32c6367c91be.png)
 
 •	Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla.
 
-
+![Anule](https://user-images.githubusercontent.com/75337022/112067960-f469c780-8b36-11eb-8142-156d18ff0da6.png)
 
 •	Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla.
 
+•	Voltaje
+
+![Implemente](https://user-images.githubusercontent.com/75337022/112067983-fc296c00-8b36-11eb-9932-be994cf8df93.png)
+
+•	Corriente
+
+![Implemente 2](https://user-images.githubusercontent.com/75337022/112067990-021f4d00-8b37-11eb-96dd-b160b7772de0.png)
 
  6. Tabulacion de datos
  7. Calculos y errores
