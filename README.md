@@ -74,12 +74,12 @@
 
 •	Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla.
 
-•	Voltaje
+
 
 ![Voltaje 1](https://user-images.githubusercontent.com/75337022/112096272-f5691c00-8b6b-11eb-9c2a-fb0a7d59bfaa.png)
 
 
-•	Corriente
+
 
 ![Corriente 1](https://user-images.githubusercontent.com/75337022/112096286-fe59ed80-8b6b-11eb-8926-0b127f024fa0.png)
 
