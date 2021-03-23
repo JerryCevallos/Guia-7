@@ -107,13 +107,17 @@
 ![Cálculo de Error Voltaje de Thevenin_page-0001](https://user-images.githubusercontent.com/75337022/112096907-1ed67780-8b6d-11eb-95e1-c95589394115.jpg)
 
 
- 9. CONCLUSIONES
+ 11. CONCLUSIONES
 
-    - Manejar un concepto basico de que es para que sirve y como se usa el Teorema de Thevenin y donde se aplica
+    - Manejar un concepto basico de lo que trata el Teorema de Thevenin y donde aplicarlo
     
-    - Implementar de manera fluida el concepto del Teorema de Thevenin implemenatandolo en la resolucion de ejercicios de alta                 complejidad opotimizando su resolucion 
+    - Poner en practicar la Ley de Ohm para calcular las corrientes que circulan dentro del circuito, ya que eso se incluye en el Teorema de Thevenin  
     
-    - Utilizar los conceptos de Rsistencia, Voltaje o Corriente Equivalentes para una mejor comprension del circuito con el que se            propone trabajar
+    - Estudiar el Teorema de Thevenin en nuestro circuito fue muy agradable, ya que no hay ninguna complejidad en hacerlo 
+    
+    - (Pendiente)  
      
- 10. BIBLIOGRAFIA  
- 11. ANEXOS 
+ 12. BIBLIOGRAFIA  
+ 
+ 
+ 13. ANEXOS 
