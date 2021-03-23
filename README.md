@@ -77,11 +77,13 @@
 
 •	Voltaje
 
-![Implemente](https://user-images.githubusercontent.com/75337022/112067983-fc296c00-8b36-11eb-9932-be994cf8df93.png)
+![Voltaje 1](https://user-images.githubusercontent.com/75337022/112096272-f5691c00-8b6b-11eb-9c2a-fb0a7d59bfaa.png)
+
 
 •	Corriente
 
-![Implemente 2](https://user-images.githubusercontent.com/75337022/112067990-021f4d00-8b37-11eb-96dd-b160b7772de0.png)
+![Corriente 1](https://user-images.githubusercontent.com/75337022/112096286-fe59ed80-8b6b-11eb-8926-0b127f024fa0.png)
+
 
  6. TABULACION DE DATOS 
 
@@ -102,5 +104,12 @@
 ![Voltaje de Thevenin_page-0001](https://user-images.githubusercontent.com/75337022/112095097-dff2f280-8b69-11eb-96a2-741fc9e2b8f3.jpg)
 
  9. CONCLUSIONES
+
+    - Manejar un concepto basico de que es para que sirve y como se usa el Teorema de Thevenin y donde se aplica
+    
+    - Implementar de manera fluida el concepto del Teorema de Thevenin implemenatandolo en la resolucion de ejercicios de alta                 complejidad opotimizando su resolucion 
+    
+    - Utilizar los conceptos de Rsistencia, Voltaje o Corriente Equivalentes para una mejor comprension del circuito con el que se            propone trabajar
+     
  10. BIBLIOGRAFIA  
  11. ANEXOS 
