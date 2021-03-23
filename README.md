@@ -118,6 +118,30 @@
     - (Pendiente)  
      
  12. BIBLIOGRAFIA  
+
+    - Teorema de Thevenin, Ecured tomado de: https://www.ecured.cu/Teorema_de_Th%C3%A9venin
+    
+    - GONZALEZ, Felipe. Curso Mr. Electrónico Ed. CEKIT. 1999 
+    
+    - ETOOLS, Teorema de Thevenin, Circuito equivalente tomado de: https://www.electrontools.com/Home/WP/teorema-de-thevenin-circuito-equivalente/
+    
+    - dademuchconnection, Teorema de Thevenin, Análisis de circuitos eléctricos tomado de: https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/ 
  
  
  13. ANEXOS 
+
+![Anexo 1](https://user-images.githubusercontent.com/75337022/112160197-f031be80-8bb7-11eb-909f-69667750ab96.png)
+
+![Anexo 2](https://user-images.githubusercontent.com/75337022/112160223-f58f0900-8bb7-11eb-8d1f-9994feb360d1.png)
+
+![anexo 3](https://user-images.githubusercontent.com/75337022/112160258-fcb61700-8bb7-11eb-8bbe-b8828355389f.png)
+
+![Anexo 4](https://user-images.githubusercontent.com/75337022/112160323-0b9cc980-8bb8-11eb-8dab-6c6e2ea49e1a.png)
+
+![Anexo 5](https://user-images.githubusercontent.com/75337022/112160359-13f50480-8bb8-11eb-929f-b8d466995ba2.png)
+
+![Anexo 6](https://user-images.githubusercontent.com/75337022/112160389-1c4d3f80-8bb8-11eb-96c3-c7c3f98fa401.png)
+
+![Anexo 7](https://user-images.githubusercontent.com/75337022/112160408-21aa8a00-8bb8-11eb-9fb4-4ac2c447b28e.jpg)
+
+![Anexo 8](https://user-images.githubusercontent.com/75337022/112160430-28390180-8bb8-11eb-939c-e76e90de1c2c.jpg)
