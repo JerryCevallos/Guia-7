@@ -84,13 +84,13 @@
 ![Corriente 1](https://user-images.githubusercontent.com/75337022/112096286-fe59ed80-8b6b-11eb-8926-0b127f024fa0.png)
 
 
- 6. TABULACION DE DATOS 
+ 8. TABULACION DE DATOS 
 
 ![Tabla 1](https://user-images.githubusercontent.com/75337022/112094613-a8844600-8b69-11eb-96b7-a23d34cc1b3f.png)
 
 ![Tabla 2](https://user-images.githubusercontent.com/75337022/112094621-af12bd80-8b69-11eb-8fa9-a2841b44697c.png)
 
- 7. CALCULOS Y ERRORES
+ 9. CALCULOS
 
 ![Análisis de mallas_page-0001](https://user-images.githubusercontent.com/75337022/112094725-b89c2580-8b69-11eb-9761-f2521f7ebc01.jpg)
 
@@ -101,6 +101,8 @@
 ![Resistencia Equivalente_page-0002](https://user-images.githubusercontent.com/75337022/112095084-d9647b00-8b69-11eb-8dc9-a679bbd66a10.jpg)
 
 ![Voltaje de Thevenin_page-0001](https://user-images.githubusercontent.com/75337022/112095097-dff2f280-8b69-11eb-96a2-741fc9e2b8f3.jpg)
+
+ 10. % DE ERROR
 
 ![Cálculo de Error Voltaje de Thevenin_page-0001](https://user-images.githubusercontent.com/75337022/112096907-1ed67780-8b6d-11eb-95e1-c95589394115.jpg)
 
