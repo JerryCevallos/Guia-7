@@ -55,15 +55,14 @@
 ![Material](https://user-images.githubusercontent.com/75337022/112067016-63deb780-8b35-11eb-9f05-393f28f73f95.png)
 
  7. PROCEDIMIENTO 
-•	Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla
 
-•	Voltaje
+•	Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla
 
 ![Voltaje](https://user-images.githubusercontent.com/75337022/112096213-d66a8a00-8b6b-11eb-8c2f-1b76a58dc9ce.png)
 
-•	Corriente
 
 ![Corriente](https://user-images.githubusercontent.com/75337022/112096257-ebdfb400-8b6b-11eb-9dfc-d06c023ea698.png)
+
 
 •	Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla.
 
