@@ -115,7 +115,7 @@
     
     - Estudiar el Teorema de Thevenin en nuestro circuito fue muy agradable, ya que no hay ninguna complejidad en hacerlo 
     
-    - (Pendiente)  
+    - Esta practica nos permitió visualizar tanto simuladamente como matemáticamente como se emplea el teorema de Thévenin, ya que este es muy útil  por que  nos  permite             reducir  un  circuito complejo, a uno con una configuracion mas sencilla de analizar.
      
  12. BIBLIOGRAFIA  
 
